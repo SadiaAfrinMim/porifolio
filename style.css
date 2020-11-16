@@ -1,0 +1,82 @@
+
+body{
+    margin: 0;
+}
+.section{
+    height:500px;
+    padding-bottom: 120px;
+}
+
+
+.name-highlight{
+    color: rgb(39, 19, 225);
+}
+.hero-section{
+    background: url('afri.jpg')
+}
+
+.half-width{
+width: 40%;
+float: left;
+margin-left: 5%;
+padding-left: 3%;
+}
+.anchor-button{
+    text-decoration: none;
+    font-size: 20px;
+    color: white;
+    padding: 15px 22px;
+    border-radius: 7%;
+    background-color: blue;
+    margin-left: 10;
+    border: 50px;
+}
+    .dream-section{
+    width: 100%;
+    float: left;
+    margin-right: 5%;
+    padding-right: 3%
+}
+.anchor2-button{
+    text-decoration: none;
+    font-size: 30px;
+    color: white;
+    background-color: rgb(49, 49, 160);
+    padding: 7px;
+    border-radius: 8px;
+
+
+}
+
+.heading{
+    font-size: 50px;
+    text-align: center;
+    background-color: rgb(255, 174, 0);
+    padding: 5px 5px;
+    border: 2px;
+}
+.name-highlight{
+    color: blue;
+}
+.single-experinence{
+    
+    box-shadow: 10px 10px 40px gray ;
+}
+#full-stack{
+    border-left: 7px solid;
+    border-image: linear-gradient(180deg, rgb(7, 7, 206), cyan);
+    border-image-slice: 1;
+}
+     #front-end{
+        border-left: 7px solid;
+        border-image: linear-gradient(180deg, rgb(128, 62, 0), rgb(255, 166, 0));
+        border-image-slice: 1;
+    }
+   .footer{
+       text-align: center;
+   }
+
+    }
+
+}
+
